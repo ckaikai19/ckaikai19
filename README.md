@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Christian Kaikai
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris
 ========================================================================================================================================
 
 I am a full-stack web developer with a solid ability to design, build and maintain high-quality code from conception to production within an individual and team setting. I pride myself on having a strong focus and attention to detail no matter the complexity of a project. I'm extremely curious and a quick learner of new technologies and always stay up to date with modern-day JavaScript frameworks and libraries.
